@@ -16,5 +16,4 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mj6ilyrnbc3ehghdxm7mdjug3a)<br>
 
-<a href="mailto:felipe.vieira.7721@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
