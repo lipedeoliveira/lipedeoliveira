@@ -1,4 +1,4 @@
-# 👋 E aí, tudo certo? Eu sou o Felipe Vieira!
+# 👋Opa, bom? Eu sou o Felipe Vieira!
 
 Atualmente estudo Desenvolvimento de Sistemas e gosto mesmo é de entender como as coisas funcionam de verdade. Sou curioso, gosto de me aprofundar em sistemas embarcados, inteligência artificial, machine learning e segurança da informação.
 
