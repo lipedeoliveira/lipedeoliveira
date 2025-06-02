@@ -28,9 +28,7 @@ Atualmente estudo Desenvolvimento de Sistemas e gosto mesmo é de entender como 
 ## 🎯 Interesses atuais
 
 - 🧠 Inteligência Artificial e Machine Learning  
-- 🔍 Data Science com Python  
-- 🔐 Cibersegurança (curto bastante a parte de hacking ético)  
-- 🤖 Sistemas embarcados e automação
+- 🔍 Data Science com Python    
 
 ---
 
@@ -38,9 +36,6 @@ Atualmente estudo Desenvolvimento de Sistemas e gosto mesmo é de entender como 
 
 Se quiser trocar ideia ou tiver algum projeto daora:
 
-- Email: **felipevieira.programador@gmail.com**
-- LinkedIn: [linkedin.com/in/felipevieiradev](https://www.linkedin.com/in/felipevieiradev)
+- Email: **felipe.vieira.7721@gmail.com**
 
 ---
-
-> "Não sou muito de fazer site bonito, mas se for pra treinar IA ou entender um protocolo, pode chamar."
