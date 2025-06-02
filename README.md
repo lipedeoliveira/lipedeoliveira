@@ -1,6 +1,6 @@
 # 👋Opa, bom? Eu sou o Felipe Vieira!
 
-Atualmente estudo Desenvolvimento de Sistemas e gosto mesmo é de entender como as coisas funcionam de verdade. Sou curioso, gosto de me aprofundar em sistemas embarcados, inteligência artificial, machine learning e segurança da informação.
+Atualmente estudo Desenvolvimento de Sistemas. Sou curioso, gosto de me aprofundar em sinteligência artificial, machine learning e segurança da informação.
 
 ---
 
@@ -34,7 +34,7 @@ Atualmente estudo Desenvolvimento de Sistemas e gosto mesmo é de entender como 
 
 ## 📬 Fala comigo
 
-Se quiser trocar ideia ou tiver algum projeto daora:
+Para entrar em contato comigo:
 
 - Email: **felipe.vieira.7721@gmail.com**
 
