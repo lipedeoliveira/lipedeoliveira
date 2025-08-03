@@ -1,6 +1,6 @@
 # 👋Opa, bom? Eu sou o Felipe Vieira!
 
-Atualmente estudo Desenvolvimento de Sistemas. Sou curioso, gosto de me aprofundar em sinteligência artificial, machine learning e segurança da informação.
+Atualmente estudo Desenvolvimento de Sistemas. Sou curioso, gosto de me aprofundar em inteligência artificial, machine learning e segurança da informação.
 
 ---
 
