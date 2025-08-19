@@ -1,11 +1,10 @@
-# 👋Opa, bom? Eu sou o Felipe Vieira!
-
+<img width="100%¨" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=_hexcode&section=header&fontColor=fffff&fontAlign=50&reversal=false&fontAlignY=39&descSize=-17">
 Atualmente estudo Desenvolvimento de Sistemas. Sou curioso, gosto de me aprofundar em inteligência artificial, machine learning e segurança da informação.
 
 ---
 
-## 🚀 Ferramentas e Tecnologias que uso
-
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -13,13 +12,16 @@ Atualmente estudo Desenvolvimento de Sistemas. Sou curioso, gosto de me aprofund
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
+
+![Preview do Repositório](https://raw.githubusercontent.com/GustavoS07/Agro-G.E.S.F/main/Imagens_readme/Logo.jpg)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lipedeoliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=lipedeoliveira&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipedeoliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -39,3 +41,6 @@ Para entrar em contato comigo:
 - Email: **felipe.vieira.7721@gmail.com**
 
 ---
+
+
+<img width="100%" height="50%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=&color=_hexcode&section=footer&fontColor=fffff&fontAlign=50&reversal=false&fontAlignY=39&descSize=-17">
