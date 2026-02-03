@@ -50,8 +50,8 @@ me.say_hi()
 
 <div align="center">
   
-[![Project](https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lipedeoliveira)
-[![Paper](https://img.shields.io/badge/Scientific_Paper-FF6F00?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![Project](https://img.shields.io/badge/View_Project-00C853?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agro-G-E-S-F/Agro-G.E.S.F)
+[![Paper](https://img.shields.io/badge/Scientific_Paper-FF6F00?style=for-the-badge&logo=academia&logoColor=white)]()
 
 </div>
 
